@@ -1,0 +1,32 @@
+body{
+    background: #90bf80;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn{
+    background: #bf681d;
+    margin: 20px;
+}
+
+.add-btn{
+    background: lightblue;
+    width: 40px;
+    height: 40px;
+}
+.app-title{
+    text-align: center;
+    color: #000;
+    font-size: 70px;
+}
+.container{
+    border: 5px solid #bf681d ;
+    border-radius: 25px;
+
+}
+div {
+    padding: 30px;
+    text-align: left;
+    max-width: 500px;
+    margin: auto;
+}
